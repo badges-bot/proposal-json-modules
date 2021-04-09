@@ -1,5 +1,7 @@
 # JSON modules
 
+![Stage 3](https://badges.aleen42.com/src/tc39_4.svg)
+
 Champions: Sven Sauleau ([@xtuc](https://github.com/xtuc)), Daniel Ehrenberg ([@littledan](https://github.com/littledan)), Myles Borins ([@MylesBorins](https://github.com/MylesBorins)), and Dan Clark ([@dandclark](https://github.com/dandclark))
 
 Status: Stage 3.
